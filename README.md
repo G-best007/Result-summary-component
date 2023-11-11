@@ -22,13 +22,13 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 **Mobile view**
 
-![](./result_mobile.png.png)
+![](./result_mobile.png)
 
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Click to view the project](https://g-best007.github.io/Result-summary-component/)
 
 ## My process
 
